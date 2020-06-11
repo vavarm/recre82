@@ -91,3 +91,16 @@ body{
     display: block;
   }
 }
+.pied {
+    padding: 20px;
+    font-style: italic;
+    background-color: black;
+}
+
+.whiteColor {
+    color:white;
+}
+
+.contenu {
+    height: 2000px;
+}
