@@ -5,6 +5,7 @@ body{
 .page {
     margin-left: 250px;
     margin-right: 250px;
+    border-top: solid;
     border-left: solid;
     border-right: solid;
 }
